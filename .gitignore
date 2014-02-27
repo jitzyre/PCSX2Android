@@ -1,0 +1,13 @@
+.DS_Store
+ant.properties
+local.properties
+.settings
+*.bin
+*.class
+*.orig
+*.so
+
+bin/
+gen/
+obj/
+tools/
